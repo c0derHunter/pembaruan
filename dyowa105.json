@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "dYoWA V106",
-      "code": 0,
-      "url": "https://youtu.be/6d9uCWw4Q9o",
-      "changelog": " - ``Base update 2.23.9.75 - ``Full transparent settings - ``New status playback ui - ``Media backup/restore - ``Transfer chats - ``And many more"
+      "version": "dYoWA V107S",
+      "code": 1,
+      "url": "https://youtu.be/CcBER0aqByg",
+      "changelog": " - ``Telegram ios home ui - ``New lock ui - ``Send status 150 minutes - ``Sending full size video - ``Sending full size audio - ``Transparent chats - ''Auto responder mention - ``And many more"
     }
    ]
   }
