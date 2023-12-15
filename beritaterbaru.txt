@@ -1,0 +1,2 @@
+channelUrl=https://whatsapp.com/channel/0029VaFsJ5s7dmeTkeBIqP3G
+prefAlertChannelNotification=ymwa_alert_channel_notification_0_check
