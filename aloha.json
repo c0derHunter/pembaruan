@@ -1,0 +1,28 @@
+{
+  "dialogConfig": {
+    "enabled": true,
+    "version": "9.9.9.9.9.9.9",
+    "mandatory": false,
+    "update_url": "https://dodistudioid.blogspot.com/?m=1",
+    "title": "Update Available!",
+    "message": "A new version of the app is available. Please update now to enjoy the latest features.",
+     "socialLinks": [
+      {
+        "name": "facebook",
+        "url": "https://dodistudioid.blogspot.com/?m=1"
+      },
+      {
+        "name": "twitter",
+        "url": "https://dodistudioid.blogspot.com/?m=1"
+      },
+      {
+        "name": "instagram",
+        "url": "https://dodistudioid.blogspot.com/?m=1"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://dodistudioid.blogspot.com/?m=1"
+      }
+    ]
+  }
+}
