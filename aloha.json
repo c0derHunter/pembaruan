@@ -1,6 +1,6 @@
 {
   "dialogConfig": {
-    "enabled": true,
+    "enabled": false,
     "version": "9.9.9.9.9.9.9",
     "mandatory": false,
     "update_url": "https://dodistudioid.blogspot.com/?m=1",
